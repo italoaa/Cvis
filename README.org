@@ -1,2 +1,3 @@
 #+title: CVis - Sorting Visualizer in C
 
+This is a Project that has the purpose to teach me More complex C and ncurses. Ncurses is a library to make better looking applications inside a terminal
