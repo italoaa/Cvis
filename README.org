@@ -1,3 +1,16 @@
 #+title: CVis - Sorting Visualizer in C
 
-This is a Project that has the purpose to teach me More complex C and ncurses. Ncurses is a library to make better looking applications inside a terminal
+* Welcome
+This is a Project that has the purpose to teach me More complex C and ncurses. Ncurses is a library to make better looking applications inside a terminal.
+=Remember that this is project's purpose is to learn C=
+
+* How to Compile
+The command i am using to complile this is mac os Catalina is this
+#+begin_src bash
+
+  gcc -I/usr/local/opt/ncurses/include -L/usr/local/opt/ncurses/lib ncursing.c -o ncursing -lncurses
+
+#+end_src
+
+So clone this Repo and execute the above command but equivalent to =your system=
+
