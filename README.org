@@ -3,6 +3,7 @@
 * Welcome
 This is a Project that has the purpose to teach me More complex C and ncurses. Ncurses is a library to make better looking applications inside a terminal.
 =Remember that this is project's purpose is to learn C=
+[[file:preview.gif][Preview]]
 
 * How to Compile
 The command i am using to complile this is mac os Catalina is this
